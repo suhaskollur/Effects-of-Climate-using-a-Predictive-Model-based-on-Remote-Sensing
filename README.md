@@ -13,3 +13,19 @@ If climate change is not monitored effectively then it would lead us to a seriou
 Future scenarios that are affected by climate change are not inevitable. We already know a multitude of issues and solutions, and continuing research on these impacts keeps generating new ideas.
 
 We are using SARIMA model to predict a few climate parameters such as Land Surface Temperature (LST), Carbon Monoxide (CO) Concentration and Precipitation.
+
+Capstone Project - Electronics and Communication Engineering ( Across 3 semesters - 6th, 7th and 8th) 
+Guide - Dr. Shikha Tripathi 
+
+Authors: 
+Suhas Kollur -> PES Univeristy 
+Niyam Momaya -> PES University 
+Rohit N -> PES University
+Bhumika M -> PES University 
+
+Conference paper published at 19th IEEE International Colloquium on Signal Processing and its Applications ( CSPA 2023 ) 
+Published on Mar 4, 2023 
+Link to the credential below : 
+https://ieeexplore.ieee.org/document/10087637
+
+
